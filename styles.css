@@ -1,0 +1,37 @@
+html,
+body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+    font-family: 'Trebuchet MS', sans-serif;
+    background-color: #e4e0d6;
+}
+
+h1 {
+    text-align: center;
+    padding: 40px;
+}
+
+form {
+    padding: 40px;
+    margin-top: 40px;
+}
+
+input[type=text] {
+    text-align: center;
+    font-size: 18px;
+}
+
+
+.form-control {
+    height: 40px;
+}
